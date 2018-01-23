@@ -1,3 +1,6 @@
+#more details in  this presentaion maded by my team ^_^ 
+  https://prezi.com/view/1GwwxEvQGzgJenJvOFQW/
+  
 # Structural-Similarity-Index-SSIM-
  how to compare two images with Python using the Structural Similarity Index (SSIM)
 
