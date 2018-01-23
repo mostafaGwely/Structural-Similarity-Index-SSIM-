@@ -6,7 +6,8 @@
 -------------------------------------------------------
 #note that the two images must have the same Dimensions
 -------------------------------------------------------
-
+#tutorial video 
+https://youtu.be/mggQIEZY4rE
 
 #first of all point to directory 
 
