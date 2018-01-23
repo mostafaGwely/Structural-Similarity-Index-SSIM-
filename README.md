@@ -9,7 +9,12 @@
 
 
 #first of all point to directory 
+
 pip install --upgrade imutils
+
 pip install --upgrade pip
+
 pip install opencv-python
+
 python ssim.py -f path/to/image/one -s path/to/image/two  
+
