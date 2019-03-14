@@ -7,7 +7,7 @@
 -------------------------------------------------------
 # note that the two images must have the same Dimensions
 -------------------------------------------------------
-# [tutorial video] (https://youtu.be/mggQIEZY4rE)
+# [tutorial video](https://youtu.be/mggQIEZY4rE)
 
 `python ssim.py -f path/to/image/one -s path/to/image/two`
 
